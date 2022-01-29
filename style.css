@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightyellow;
+    font-family: "Lucida Console", Courier, monospace;
+}
+h2{
+  text-align: center;
+  font-weight:bolder;
+  text-transform: uppercase;
+}
+table{
+    border: 2px solid darkorchid;
+    width: 650px;
+    margin: 0 auto;
+}
+
+thead{
+  border: 2px solid;
+  background-color: #ff9829;
+  color: white;
+  text-align: center;
+}
+#code{
+  border: 1px solid blue;
+}
+
+body {
+    display: block;
+    margin: 8px;
+}
